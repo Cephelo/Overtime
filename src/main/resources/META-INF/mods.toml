@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="Not specified"
+
+[[mods]]
+modId="overtime"
+version="1.0.0"
+displayName="Overtime"
+displayURL="https://infernalstudios.org/"
+logoFile="logo.png"
+credits="Mobs become faster overtime!"
+authors="nekomaster1000"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.overtime]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
